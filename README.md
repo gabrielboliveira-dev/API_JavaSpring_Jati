@@ -8,10 +8,10 @@ O minicurso teve como objetivo capacitar os participantes no desenvolvimento de 
 Aqui você encontrará os exemplos de código e projetos práticos que foram construídos ao longo do minicurso. Cada pasta representa um módulo ou tópico específico abordado, contendo o código-fonte, configurações e, quando aplicável, instruções para execução.
 
 ## Tecnologias Utilizadas
-Java 17
-Spring Boot 3.8
-Maven (Gerenciador de Dependências)
-As demais dependências específicas do projeto está listada no arquivo pom.xml
+- Java 17
+- Spring Boot 3.8
+- Maven (Gerenciador de Dependências)
+- As demais dependências específicas do projeto está listada no arquivo pom.xml
 
 ## Licença
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
